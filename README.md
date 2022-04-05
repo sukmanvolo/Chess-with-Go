@@ -1,3 +1,3 @@
-# chess-on-go
+# Chess-With-Go
 
-Just trying this out with Golang...
+Chess logic - using Bitboards! quick move generation and game state checks
